@@ -25,5 +25,6 @@ And you are good to go.
 2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10. 
 
 
+![image](https://github.com/HarshKasliwal/CariPrice-Preowned-Auto-Valuator-Used-Car-Price-Predictor-/assets/91011623/356d574a-69d6-49ec-a005-40e7a6e2bbfd)
+![image](https://github.com/HarshKasliwal/CariPrice-Preowned-Auto-Valuator-Used-Car-Price-Predictor-/assets/91011623/69b8b47e-aaa5-4806-9097-6d77c5968e70)
 
-[Project.pptx](https://github.com/HarshKasliwal/used_car_price_predictor/files/10466387/Project.pptx)
